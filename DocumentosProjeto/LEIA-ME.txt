@@ -1,1 +1,2 @@
-
+Nesta pasta encontra-se:
+	*TAP_Noemi, que é o Termo de Abertura do sistema Web CVLatess, cujo o administrador é a Noemi. Nele está especificado o objetivo do projeto e todas as etapas que serão realizadas, de forma geral. O único tópico que não está completo é o "Cronograma Prelminar", pois futuramente o grupo irá aprender como realiza, de acordo com o professor.
