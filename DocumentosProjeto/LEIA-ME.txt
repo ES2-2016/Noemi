@@ -1,5 +1,7 @@
 
 #Nesta pasta encontra-se:
-	*TAP_Noemi, que é o Termo de Abertura do sistema Web CVLatess, cujo o administrador é a Noemi. Nele está especificado o objetivo do projeto e todas as etapas que serão realizadas, de forma geral. O único tópico que não está completo é o "Cronograma Prelminar", pois futuramente o grupo irá aprender como realiza, de acordo com o professor.
-
-	*PGP_Noemi, encontra-se o plano de gerenciamento de projeto.
+	*Quatro diretórios:
+		**Termo de Abertura de Projeto: Contém um arquivo denominado "TAP_Noemi" referente ao Termo de Abertura do sistema Web CVLatess, cujo o administrador é a Noemi. Nele está especificado o objetivo do projeto e todas as etapas que serão realizadas, de forma geral. O único tópico que não está completo é o "Cronograma Prelminar", pois futuramente o grupo irá aprender como realiza, de acordo com o professor.
+		**Gerenciamento de Projeto: Possui um arquivo PGP_Noemi, referente ao plano de gerenciamento de projeto. Nele é especificado todos os gerenciamentos que serão realizadas no projeto.
+		**Declaração de Escopo: Contém o arquivo DE_Noemi, referente a declaração de escopo do projeto.
+		**EAP: Contém um arquivo EAP_Noemi referente ao EAP do projeto, e um diretório contendo a imagem EAP da primeira entrega, no qual não pode ser visual no arquivo EAP_Noemi.
