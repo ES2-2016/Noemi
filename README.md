@@ -7,6 +7,9 @@ Desenvolvimento do sistema Web CVLatess
 Pré-designação da Equipe:
 
 Gerente: Noemi Pereira Scherer
+
 Analista: Vinicius Ribeiro
+
 Desenvolvedor: Felipe Fronchetti
+
 Testador: Luis Fernando
