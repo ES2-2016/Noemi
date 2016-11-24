@@ -1,1 +1,7 @@
-#Ainda será modificado
+Website -> Contém todos os recursos necessários para implementação do Currículo Lattes
+Website é divido em:
+	Codes -> Códigos do back-end do Website
+	Assets -> Códigos do front-end do Website
+	Fonts -> Fontes de texto
+	index.php -> Código da página inicial do projeto
+	paginausuario.php -> Código da página do usuário
